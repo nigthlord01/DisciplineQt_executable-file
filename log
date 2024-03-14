@@ -1,0 +1,1 @@
+No query Unable to fetch rowВ запросе содержится ошибка.SELECT VP, Dol, VZ, FIO,Data_comb,LN,vzs, blag, gr, ZOMO, gosnag, posh,Dolz_nom,Zvan_nom FROM Combat ORDER BY VP ASC, Dolz_nom ASC, Zvan_nom ASC, FIO ASC Запрос
